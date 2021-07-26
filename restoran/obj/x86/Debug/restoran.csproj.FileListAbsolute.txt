@@ -1,0 +1,46 @@
+C:\Users\Zoza\Desktop\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\Zoza\Desktop\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.Form1.resources
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.PICE.resources
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.Properties.Resources.resources
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.csproj.GenerateResource.Cache
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.exe
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.pdb
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.HRANA.resources
+C:\Users\Zoza\Desktop\restoran\restoran\obj\x86\Debug\restoran.RACUN.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.exe
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.pdb
+C:\Users\Boris\Desktop\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\Boris\Desktop\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.Form1.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.HRANA.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.PICE.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.Properties.Resources.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.RACUN.resources
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.csproj.GenerateResource.Cache
+C:\Users\Boris\Desktop\restoran\restoran\obj\x86\Debug\restoran.Pocetna.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.exe
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.pdb
+C:\Users\Ivana\Desktop\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\Ivana\Desktop\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.Form1.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.HRANA.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.PICE.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.Pocetna.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.Properties.Resources.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.RACUN.resources
+C:\Users\Ivana\Desktop\restoran\restoran\obj\x86\Debug\restoran.csproj.GenerateResource.Cache
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.exe
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.pdb
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.csprojResolveAssemblyReference.cache
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.Form1.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.HRANA.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.PICE.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.Pocetna.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.Properties.Resources.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.RACUN.resources
+C:\Users\Ivana\Desktop\VTŠ\II SEMESTAR\Objektno programiranje\restoran\restoran\obj\x86\Debug\restoran.csproj.GenerateResource.Cache
